@@ -2,6 +2,11 @@ a:hover{
   color: #EAF6F6;
 
 }
+
+.top-container > p > a:hover {
+  color: red;
+}
+
 body {
   padding: 0;
   margin: 0;
